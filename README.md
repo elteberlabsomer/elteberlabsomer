@@ -14,6 +14,8 @@ I build **Next.js + Directus** products: admin panels, headless CMS setups, and 
 ## Contact
 - (soon) website
 - (soon) Fiverr / Upwork
+
 ## Portfolio
-- [directus-render-starter (Directus + Postgres deploy baseline)](https://github.com/Elteber-Labs/directus-render-starter)
-- [nextjs-directus-admin-starter (admin panel scaffold)](https://github.com/Elteber-Labs/nextjs-directus-admin-starter)
+- Directus on Render Starter: https://github.com/Elteber-Labs/directus-render-starter
+- Admin Demo (Live): https://nextjs-directus-admin-starter.vercel.app/
+- Admin Demo (Repo): https://github.com/Elteber-Labs/nextjs-directus-admin-starter
