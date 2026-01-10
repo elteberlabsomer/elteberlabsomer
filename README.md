@@ -1,21 +1,15 @@
 # Elteber Labs — Ömer
 
-I build **Next.js + Directus** products: admin panels, headless CMS setups, and automations.
+I build **Next.js + Directus** products: headless CMS setups, admin panels, and **custom automations via Directus Extensions (Hooks)**.
 
 ## What I deliver
-- Directus setup (data model, roles/policies, flows)
+- Directus setup (data model, roles/policies)
+- **Directus Extensions (Hooks):** API integrations, auto-metadata, publish gates, background automations
 - Next.js frontends (admin panels, dashboards)
-- Deployments (Render) + handover docs
-
-## Portfolio
-- directus-render-starter (Directus + Postgres deploy baseline)
-- nextjs-directus-admin-starter (admin panel scaffold)
-
-## Contact
-- (soon) website
-- (soon) Fiverr / Upwork
+- Docker deploy baselines + handover docs
 
 ## Portfolio
 - Directus on Render Starter: https://github.com/Elteber-Labs/directus-render-starter
 - Admin Demo (Live): https://nextjs-directus-admin-starter.vercel.app/
 - Admin Demo (Repo): https://github.com/Elteber-Labs/nextjs-directus-admin-starter
+
